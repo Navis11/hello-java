@@ -34,10 +34,17 @@ public class HelloWorldExercises {
         System.err.println("Ocurrió un error");
         //La diferencia es que representa el flujo de errores del sistema.
 
-
         // 7. Utiliza varios println para imprimir una frase.
+        System.out.println("Hola");
+        System.out.println("Me");
+        System.out.println("llamo");
+        System.out.println("Mariana");
 
         // 8. Imprime un diseño ASCII (por ejemplo, una cara feliz usando símbolos).
+
+        System.out.println(" /\\_/\\\\");
+        System.out.println("( o.o )");
+        System.out.println(" > ^ <");
 
         // 9. Intenta ejecutar el programa sin el método main y observa el error.
 
